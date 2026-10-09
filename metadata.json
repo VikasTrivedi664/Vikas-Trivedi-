@@ -1,0 +1,6 @@
+{
+  "name": "DataScope",
+  "description": "Comprehensive data analytics suite with CSV/Excel import, automated data cleaning, interactive visualizations, real-time streaming, and PDF report export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
